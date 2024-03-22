@@ -13,14 +13,14 @@ import Footer from './global-components/footer-v2';
 const Home_V2 = () => {
     return <div>
         <Navbar />
-        <Banner />
-        <Trending />
-        <TrendingV4 />
+        {/* <Banner /> */}
+        {/* <Trending /> */}
+        {/* <TrendingV4 /> */}
         <Catv2 />
-        <NewsLatter />
-        <VideoV3 />
+        {/* <NewsLatter /> */}
+        {/* <VideoV3 /> */}
         <Ads />
-        <TrendingV5 />
+        {/* <TrendingV5 /> */}
         <Footer />
     </div>
 }
