@@ -18,8 +18,8 @@ const Home_V2 = () => {
         {/* <TrendingV4 /> */}
         <Catv2 />
         {/* <NewsLatter /> */}
-        {/* <VideoV3 /> */}
         <Ads />
+        <VideoV3 />
         {/* <TrendingV5 /> */}
         <Footer />
     </div>
